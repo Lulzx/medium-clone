@@ -1,8 +1,8 @@
 <?php
 $config['db'] = array(
-	'host' 			=> 'localhost',
-	'username'		=> 'root',
-	'password'		=> '',
+	'host' 			=> 'mysql5.gear.host',
+	'username'		=> 'medium',
+	'password'		=> 'Vn8F4~5oBH~j',
 	'dbname'		=> 'medium'
 );
 
