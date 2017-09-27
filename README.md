@@ -7,6 +7,8 @@ It gives the medium's some functionality in dirty way.
 
 __demo__: [http://blog.navneetpandey.com](http://blog.navneetpandey.com)
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Features
 
 __The repos used:__
